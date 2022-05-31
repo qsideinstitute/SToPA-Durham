@@ -1,4 +1,5 @@
 # Load libraries
+library(gitcreds)
 library(tidyverse)
 library(RSelenium)
 library(pbmcapply)
